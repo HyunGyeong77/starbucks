@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/starbucks/static/css/main.9b3b5727.css",
+    "main.js": "/starbucks/static/js/main.508795ac.js",
+    "static/js/453.c10a1b31.chunk.js": "/starbucks/static/js/453.c10a1b31.chunk.js",
+    "static/media/2025_summer_pick_bg_250519.png": "/starbucks/static/media/2025_summer_pick_bg_250519.2d7154622dca15fa93a0.png",
+    "static/media/2025_summer_pick_bg_mo_250519.png": "/starbucks/static/media/2025_summer_pick_bg_mo_250519.4e195d73b0cd17a8753e.png",
+    "static/media/2025_summer_promotion_bg.png": "/starbucks/static/media/2025_summer_promotion_bg.b73e5fb727da53cb468e.png",
+    "static/media/2025_summer_promotion_bg_mo.jpg": "/starbucks/static/media/2025_summer_promotion_bg_mo.4ffaf7afa69881f8433a.jpg",
+    "static/media/250430_pc_reserve_bg.jpg": "/starbucks/static/media/250430_pc_reserve_bg.738bc44586b3f84dd1b0.jpg",
+    "static/media/banner.jpg": "/starbucks/static/media/banner.1608859cc8640a27ce01.jpg",
+    "static/media/2025_summer_top_bg_mo_250519.jpg": "/starbucks/static/media/2025_summer_top_bg_mo_250519.ac307ea69811e318a3a8.jpg",
+    "static/media/store_bg.jpg": "/starbucks/static/media/store_bg.aa1b6a6e213b5b153c68.jpg",
+    "index.html": "/starbucks/index.html",
+    "main.9b3b5727.css.map": "/starbucks/static/css/main.9b3b5727.css.map",
+    "main.508795ac.js.map": "/starbucks/static/js/main.508795ac.js.map",
+    "453.c10a1b31.chunk.js.map": "/starbucks/static/js/453.c10a1b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3b5727.css",
+    "static/js/main.508795ac.js"
+  ]
+}
