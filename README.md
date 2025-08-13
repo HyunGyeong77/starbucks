@@ -12,7 +12,7 @@
 * 25.05.07 ~ 25.06.09
 
 ## ⚙️ 개발 환경
-- 언어 : JSX / SCSS / JS
+- 언어 : JSX / SCSS / TS
 - 라이브러리 : React
 - 도구 : VS Code / Git
 - 배포 : Github Pages
