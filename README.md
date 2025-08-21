@@ -26,12 +26,12 @@
 
 ## 🖥️ 화면 구성
 ### 메인 페이지
-![섹션1](https://hyungyeong77.github.io/starbucks/img/main_section1.png),
-![섹션2](https://hyungyeong77.github.io/starbucks/img/main_section2.png),
-![섹션3](https://hyungyeong77.github.io/starbucks/img/main_section3.png),
-![섹션4](https://hyungyeong77.github.io/starbucks/img/main_section4.png),
-![섹션5](https://hyungyeong77.github.io/starbucks/img/main_section5.png),
-![섹션6](https://hyungyeong77.github.io/starbucks/img/main_section6.png),
+![섹션1](https://hyungyeong77.github.io/starbucks/img/main_section1.png)
+![섹션2](https://hyungyeong77.github.io/starbucks/img/main_section2.png)
+![섹션3](https://hyungyeong77.github.io/starbucks/img/main_section3.png)
+![섹션4](https://hyungyeong77.github.io/starbucks/img/main_section4.png)
+![섹션5](https://hyungyeong77.github.io/starbucks/img/main_section5.png)
+![섹션6](https://hyungyeong77.github.io/starbucks/img/main_section6.png)
 
 ## 개발 과정에서 학습한 내용
 - 애니메이션 구현
